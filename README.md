@@ -4,7 +4,7 @@
 [![Gorilla Mux](https://img.shields.io/badge/Router-Gorilla%20Mux-F6851B?style=for-the-badge&logo=go)](https://github.com/gorilla/mux)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](#)
 
-A sleek, robust, and lightning-fast RESTful CRUD API built in Go using the `gorilla/mux` router. It manages an in-memory database of movies, complete with directors, and supports all standard CRUD operations.
+A sleek, robust, and lightning-fast RESTful CRUD API built in Go using the `gorilla/mux` router. It manages an in-memory database of movies, complete with directors, and supports all standard CRUD operationss.
 
 ---
 

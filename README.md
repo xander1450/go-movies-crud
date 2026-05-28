@@ -13,7 +13,6 @@ A sleek, robust, and lightning-fast RESTful CRUD API built in Go using the `gori
 The routing mechanism uses the `gorilla/mux` router to direct incoming requests to their respective handler functions.
 
 ---
-
 ## ⚡ Features
 
 - **No External Database Overhead**: Currently runs an in-memory data store using Go slices—designed for extreme speed.

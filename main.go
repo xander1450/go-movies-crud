@@ -88,7 +88,7 @@ func main() {
 	r := mux.NewRouter()
 
 	// Seed some dummy movies
-	movies = append(movies, Movie{ID: "1", Isbn: "438227", Title: "Dhurandhar", Director: &Director{Firstname: "Mukesh", Lastname: "Bhatt"}})
+	movies = append(movies, Movie{ID: "1", Isbn: "438227", Title: "Snake", Director: &Director{Firstname: "Mukesh", Lastname: "Bhatt"}})
 	movies = append(movies, Movie{ID: "2", Isbn: "454555", Title: "Peaky Blinders", Director: &Director{Firstname: "Christopher", Lastname: "Nolan"}})
 
 	// Route Handlers
